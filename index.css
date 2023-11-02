@@ -1,0 +1,340 @@
+*{
+    scroll-behavior:smooth;
+}
+body{
+    background-color: #ddd;
+    text-transform: capitalize;
+    margin-bottom: 2px;
+
+}
+.Back{
+    background-color: #5c4;
+    color: #ddd;
+    padding: 10px;
+    margin: 25px;
+    border-radius: 5px ;
+    font-size: 20px;
+    position: fixed;
+    bottom: 0px;
+    right: 0;
+    text-decoration: none;
+    font-weight: bold;
+}
+.Back:hover{
+    color: white;
+}
+.nav{
+    background-color: gray;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    position: sticky;
+    top: 0;
+    box-shadow: 0px 3px 14px #959595;
+}
+.ART1{
+    text-decoration: none;
+    color: #000000;
+}
+.ART1:hover{
+    color: rgb(219, 7, 7);
+}
+a:hover{
+    color: rgb(244, 130, 8);
+}
+.section{
+    direction: rtl;
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+ul{
+    line-height: 3;
+    font-size: 20px;
+}
+.div1{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.art_1{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+}
+.div2{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.art_2{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+}
+.div3{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.art_3{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Noto Sans Linear B', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Satisfy', cursive;
+    font-size: 20px;
+}
+.div4{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.div5{
+    width: 80%;
+    margin: auto;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+.P{
+    padding-bottom: 10px;
+}
+.H{
+    text-align: center;
+    background-color: #ddd;
+    padding: 10px;
+    margin: auto;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Frank Ruhl Libre', serif;
+}
+.o{
+    text-shadow: 1px 0 0 rgb(229, 255, 0),
+    2px 0 0 blue,
+    3px 0 0 rgb(187, 0, 255);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    word-spacing: 3px;
+    
+}
+.sp{
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+}
+.F{
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px ;
+}
+.C{
+    color: aliceblue;
+}
+.b{
+    color: red;
+}
+.a1{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a2{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a3{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a4{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a5{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a6{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a7{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a8{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a9{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a10{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.a11{
+    text-decoration: none;
+    /* background-color: greenyellow; */
+    color: #eee;
+    border-radius: 8px ;
+    padding: 15px;
+    font-size: 25px;
+}
+.sec{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid red;
+    border-radius: 3px ;
+}
+.art{
+    width: 80%;
+    margin: auto;
+    text-align: right;
+    direction: rtl;
+}
+.art1{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid green;
+    border-radius: 3px;
+}
+.art2{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid blue;
+    border-radius: 3px;
+}
+.art3{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid yellow;
+    border-radius: 3px;
+}
+.art4{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid rgb(212, 0, 255);
+    border-radius: 3px;
+}
+.art5{
+    background-color: #ddd;
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    outline: 10px  solid #ddd;
+    border-right: 10px solid rgb(0, 255, 234);
+    border-radius: 3px;
+}
+html{
+    background-color: white(250, 216, 151);
+}
+.contact{
+    color: white;
+    text-align: center;
+}
+.cont{
+    text-decoration: none;
+    background-color: rgb(22, 71, 169);
+    color: #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    letter-spacing: 4px;
+}
+.cont2{
+    text-decoration: none;
+    background-color: rgb(243, 68, 115);
+    color: #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    letter-spacing: 3px;
+}
+.cont3{
+    text-decoration: none;
+    background-color: rgb(22, 0, 185);
+    color: #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    letter-spacing: 4px;
+}
+.cont4{
+    text-decoration: none;
+    background-color: rgb(0, 166, 187);
+    color: #ddd;
+    padding: 5px;
+    border-radius: 5px;
+    letter-spacing: 7px;
+}
+.contact a:hover{
+    color: white;
+}
